@@ -1,0 +1,532 @@
+[
+  {
+    "title": "1128. Number of Equivalent Domino Pairs57.6%Easy",
+    "link": "https://leetcode.com/problems/number-of-equivalent-domino-pairs/?envType=daily-question&envId=2025-05-04",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "1. Two Sum55.5%Easy",
+    "link": "https://leetcode.com/problems/two-sum/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "2. Add Two Numbers45.9%Med.",
+    "link": "https://leetcode.com/problems/add-two-numbers/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "3. Longest Substring Without Repeating Characters36.7%Med.",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "4. Median of Two Sorted Arrays43.4%Hard",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "5. Longest Palindromic Substring35.6%Med.",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "6. Zigzag Conversion51.3%Med.",
+    "link": "https://leetcode.com/problems/zigzag-conversion/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "7. Reverse Integer30.1%Med.",
+    "link": "https://leetcode.com/problems/reverse-integer/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "8. String to Integer (atoi)19.0%Med.",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "9. Palindrome Number59.0%Easy",
+    "link": "https://leetcode.com/problems/palindrome-number/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "10. Regular Expression Matching29.2%Hard",
+    "link": "https://leetcode.com/problems/regular-expression-matching/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "11. Container With Most Water57.5%Med.",
+    "link": "https://leetcode.com/problems/container-with-most-water/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "12. Integer to Roman68.3%Med.",
+    "link": "https://leetcode.com/problems/integer-to-roman/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "13. Roman to Integer64.6%Easy",
+    "link": "https://leetcode.com/problems/roman-to-integer/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "14. Longest Common Prefix45.2%Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "15. 3Sum36.8%Med.",
+    "link": "https://leetcode.com/problems/3sum/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "16. 3Sum Closest46.8%Med.",
+    "link": "https://leetcode.com/problems/3sum-closest/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "17. Letter Combinations of a Phone Number63.5%Med.",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "18. 4Sum37.9%Med.",
+    "link": "https://leetcode.com/problems/4sum/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "19. Remove Nth Node From End of List48.6%Med.",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "20. Valid Parentheses42.1%Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "21. Merge Two Sorted Lists66.6%Easy",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "22. Generate Parentheses76.9%Med.",
+    "link": "https://leetcode.com/problems/generate-parentheses/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "23. Merge k Sorted Lists56.4%Hard",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "24. Swap Nodes in Pairs66.9%Med.",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "25. Reverse Nodes in k-Group62.6%Hard",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "26. Remove Duplicates from Sorted Array60.0%Easy",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "27. Remove Element59.8%Easy",
+    "link": "https://leetcode.com/problems/remove-element/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "28. Find the Index of the First Occurrence in a String44.8%Easy",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "29. Divide Two Integers18.3%Med.",
+    "link": "https://leetcode.com/problems/divide-two-integers/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "30. Substring with Concatenation of All Words32.9%Hard",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "31. Next Permutation42.7%Med.",
+    "link": "https://leetcode.com/problems/next-permutation/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "32. Longest Valid Parentheses36.1%Hard",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "33. Search in Rotated Sorted Array42.6%Med.",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "34. Find First and Last Position of Element in Sorted Array46.5%Med.",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "35. Search Insert Position48.7%Easy",
+    "link": "https://leetcode.com/problems/search-insert-position/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "36. Valid Sudoku62.0%Med.",
+    "link": "https://leetcode.com/problems/valid-sudoku/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "37. Sudoku Solver63.7%Hard",
+    "link": "https://leetcode.com/problems/sudoku-solver/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "38. Count and Say60.2%Med.",
+    "link": "https://leetcode.com/problems/count-and-say/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "39. Combination Sum74.3%Med.",
+    "link": "https://leetcode.com/problems/combination-sum/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "40. Combination Sum II57.4%Med.",
+    "link": "https://leetcode.com/problems/combination-sum-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "41. First Missing Positive40.9%Hard",
+    "link": "https://leetcode.com/problems/first-missing-positive/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "42. Trapping Rain Water64.8%Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "43. Multiply Strings42.1%Med.",
+    "link": "https://leetcode.com/problems/multiply-strings/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "44. Wildcard Matching29.7%Hard",
+    "link": "https://leetcode.com/problems/wildcard-matching/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "45. Jump Game II41.3%Med.",
+    "link": "https://leetcode.com/problems/jump-game-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "46. Permutations80.4%Med.",
+    "link": "https://leetcode.com/problems/permutations/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "47. Permutations II61.3%Med.",
+    "link": "https://leetcode.com/problems/permutations-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "48. Rotate Image77.6%Med.",
+    "link": "https://leetcode.com/problems/rotate-image/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "49. Group Anagrams70.7%Med.",
+    "link": "https://leetcode.com/problems/group-anagrams/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "50. Pow(x, n)36.8%Med.",
+    "link": "https://leetcode.com/problems/powx-n/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "51. N-Queens72.3%Hard",
+    "link": "https://leetcode.com/problems/n-queens/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "52. N-Queens II76.4%Hard",
+    "link": "https://leetcode.com/problems/n-queens-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "53. Maximum Subarray51.9%Med.",
+    "link": "https://leetcode.com/problems/maximum-subarray/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "54. Spiral Matrix53.5%Med.",
+    "link": "https://leetcode.com/problems/spiral-matrix/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "55. Jump Game39.3%Med.",
+    "link": "https://leetcode.com/problems/jump-game/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "56. Merge Intervals49.2%Med.",
+    "link": "https://leetcode.com/problems/merge-intervals/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "57. Insert Interval43.2%Med.",
+    "link": "https://leetcode.com/problems/insert-interval/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "58. Length of Last Word56.0%Easy",
+    "link": "https://leetcode.com/problems/length-of-last-word/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "59. Spiral Matrix II73.2%Med.",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "60. Permutation Sequence49.6%Hard",
+    "link": "https://leetcode.com/problems/permutation-sequence/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "61. Rotate List39.7%Med.",
+    "link": "https://leetcode.com/problems/rotate-list/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "62. Unique Paths65.6%Med.",
+    "link": "https://leetcode.com/problems/unique-paths/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "63. Unique Paths II43.0%Med.",
+    "link": "https://leetcode.com/problems/unique-paths-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "64. Minimum Path Sum66.2%Med.",
+    "link": "https://leetcode.com/problems/minimum-path-sum/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "65. Valid Number21.4%Hard",
+    "link": "https://leetcode.com/problems/valid-number/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "66. Plus One47.3%Easy",
+    "link": "https://leetcode.com/problems/plus-one/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "67. Add Binary55.5%Easy",
+    "link": "https://leetcode.com/problems/add-binary/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "68. Text Justification47.7%Hard",
+    "link": "https://leetcode.com/problems/text-justification/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "69. Sqrt(x)40.2%Easy",
+    "link": "https://leetcode.com/problems/sqrtx/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "70. Climbing Stairs53.5%Easy",
+    "link": "https://leetcode.com/problems/climbing-stairs/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "71. Simplify Path47.4%Med.",
+    "link": "https://leetcode.com/problems/simplify-path/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "72. Edit Distance58.5%Med.",
+    "link": "https://leetcode.com/problems/edit-distance/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "73. Set Matrix Zeroes59.4%Med.",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "74. Search a 2D Matrix52.1%Med.",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "75. Sort Colors66.8%Med.",
+    "link": "https://leetcode.com/problems/sort-colors/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "76. Minimum Window Substring45.1%Hard",
+    "link": "https://leetcode.com/problems/minimum-window-substring/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "77. Combinations72.6%Med.",
+    "link": "https://leetcode.com/problems/combinations/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "78. Subsets80.6%Med.",
+    "link": "https://leetcode.com/problems/subsets/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "79. Word Search45.0%Med.",
+    "link": "https://leetcode.com/problems/word-search/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "80. Remove Duplicates from Sorted Array II62.6%Med.",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "81. Search in Rotated Sorted Array II38.8%Med.",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "82. Remove Duplicates from Sorted List II49.6%Med.",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "83. Remove Duplicates from Sorted List54.7%Easy",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "84. Largest Rectangle in Histogram47.0%Hard",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "85. Maximal Rectangle53.3%Hard",
+    "link": "https://leetcode.com/problems/maximal-rectangle/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "86. Partition List58.7%Med.",
+    "link": "https://leetcode.com/problems/partition-list/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "87. Scramble String42.0%Hard",
+    "link": "https://leetcode.com/problems/scramble-string/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "88. Merge Sorted Array52.6%Easy",
+    "link": "https://leetcode.com/problems/merge-sorted-array/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "89. Gray Code61.6%Med.",
+    "link": "https://leetcode.com/problems/gray-code/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "90. Subsets II59.2%Med.",
+    "link": "https://leetcode.com/problems/subsets-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "91. Decode Ways36.4%Med.",
+    "link": "https://leetcode.com/problems/decode-ways/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "92. Reverse Linked List II49.4%Med.",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "93. Restore IP Addresses52.8%Med.",
+    "link": "https://leetcode.com/problems/restore-ip-addresses/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "94. Binary Tree Inorder Traversal78.3%Easy",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "95. Unique Binary Search Trees II60.1%Med.",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "96. Unique Binary Search Trees62.3%Med.",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "97. Interleaving String42.0%Med.",
+    "link": "https://leetcode.com/problems/interleaving-string/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "98. Validate Binary Search Tree34.2%Med.",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "99. Recover Binary Search Tree55.9%Med.",
+    "link": "https://leetcode.com/problems/recover-binary-search-tree/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "100. Same Tree64.8%Easy",
+    "link": "https://leetcode.com/problems/same-tree/",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "1Fill",
+    "link": "https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/?envType=daily-question&envId=2025-05-01",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "2Fill",
+    "link": "https://leetcode.com/problems/push-dominoes/?envType=daily-question&envId=2025-05-02",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "3Fill",
+    "link": "https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/?envType=daily-question&envId=2025-05-03",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "4",
+    "link": "https://leetcode.com/problems/number-of-equivalent-domino-pairs/?envType=daily-question&envId=2025-05-04",
+    "difficulty": "Unknown"
+  },
+  {
+    "title": "W1",
+    "link": "https://leetcode.com/problems/design-snake-game/?envType=weekly-question&envId=2025-05-01",
+    "difficulty": "Unknown"
+  }
+]
